@@ -1,0 +1,1 @@
+export type SheepTypes = "SMART_SHEEP" | "DUMB_SHEEP" | "CRAZY_SHEEP"
